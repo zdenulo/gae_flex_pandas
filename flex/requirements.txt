@@ -1,0 +1,6 @@
+webapp2
+Paste
+WebOb
+pandas
+google-cloud-datastore
+gunicorn

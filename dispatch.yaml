@@ -1,0 +1,8 @@
+dispatch:
+
+  - url: "adventures-on-gcp.appspot.com/pandas/"
+    service: flex-module
+
+  - url: "adventures-on-gcp.appspot.com/"
+    service: default
+
